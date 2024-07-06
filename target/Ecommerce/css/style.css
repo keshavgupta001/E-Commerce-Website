@@ -1,0 +1,8 @@
+.custom-bg{
+	background-color: #673ab7;
+	
+}
+.list-group-item.active{
+	background-color: #673ab7!important;
+	border-color: #673ab7!important;
+}
